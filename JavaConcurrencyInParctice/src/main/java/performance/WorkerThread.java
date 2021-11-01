@@ -1,6 +1,5 @@
 package performance;
 
-import java.util.LinkedList;
 import java.util.concurrent.BlockingQueue;
 
 public class WorkerThread extends Thread {
